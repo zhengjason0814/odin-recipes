@@ -1,0 +1,33 @@
+* {
+    font-family:fantasy;
+    box-sizing:border-box;
+}
+
+#background-column {    
+    background-color: rgb(134, 112, 78);
+    width:400px;
+    margin: 0 auto;
+    padding: 150px 5px;
+    border-width: 10px;
+    border-color: yellow;
+}
+
+.title {
+    background-color: rgb(238, 244, 67);
+    margin: 30px auto 0; 
+    display: block;
+    width: 200px;
+    padding: 10px;
+    text-align:center;
+}
+
+.recipe-list {
+    margin: 20px auto;
+    display:block;
+    width: 200px;
+    background-color: rgb(220, 179, 29);
+}
+
+.recipes {
+    padding: 10px 5px;
+}
